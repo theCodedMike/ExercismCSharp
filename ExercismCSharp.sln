@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuciansLusciousLasagna", "l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnalynsInfiltration", "annalyns-infiltration\AnnalynsInfiltration.csproj", "{ABA2C875-07ED-4AAF-8D74-8B43B2702666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureMunchesterUnited", "secure-munchester-united\SecureMunchesterUnited.csproj", "{5134D418-DFEC-4008-ACB0-C6A24A4A6B0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{ABA2C875-07ED-4AAF-8D74-8B43B2702666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABA2C875-07ED-4AAF-8D74-8B43B2702666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABA2C875-07ED-4AAF-8D74-8B43B2702666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5134D418-DFEC-4008-ACB0-C6A24A4A6B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5134D418-DFEC-4008-ACB0-C6A24A4A6B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5134D418-DFEC-4008-ACB0-C6A24A4A6B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5134D418-DFEC-4008-ACB0-C6A24A4A6B0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
