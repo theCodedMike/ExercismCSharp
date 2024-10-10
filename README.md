@@ -5,3 +5,4 @@
 4. [Annalyn's Infiltration](./annalyns-infiltration/AnnalynsInfiltration.cs)
 5. [Secure Munchester United](./secure-munchester-united/SecureMunchesterUnited.cs)
 6. [Squeaky Clean](./squeaky-clean/SqueakyClean.cs)
+7. [Elon's Toys](./elons-toys/ElonsToys.cs)

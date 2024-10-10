@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureMunchesterUnited", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqueakyClean", "squeaky-clean\SqueakyClean.csproj", "{EE1D1242-6B2C-44D0-89AC-B3DE95B89AEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElonsToys", "elons-toys\ElonsToys.csproj", "{DE685F4C-9034-4543-A991-4BCD2614C754}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{EE1D1242-6B2C-44D0-89AC-B3DE95B89AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE1D1242-6B2C-44D0-89AC-B3DE95B89AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE1D1242-6B2C-44D0-89AC-B3DE95B89AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE685F4C-9034-4543-A991-4BCD2614C754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE685F4C-9034-4543-A991-4BCD2614C754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE685F4C-9034-4543-A991-4BCD2614C754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE685F4C-9034-4543-A991-4BCD2614C754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
