@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnalynsInfiltration", "ann
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureMunchesterUnited", "secure-munchester-united\SecureMunchesterUnited.csproj", "{5134D418-DFEC-4008-ACB0-C6A24A4A6B0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqueakyClean", "squeaky-clean\SqueakyClean.csproj", "{EE1D1242-6B2C-44D0-89AC-B3DE95B89AEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{5134D418-DFEC-4008-ACB0-C6A24A4A6B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5134D418-DFEC-4008-ACB0-C6A24A4A6B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5134D418-DFEC-4008-ACB0-C6A24A4A6B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1D1242-6B2C-44D0-89AC-B3DE95B89AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1D1242-6B2C-44D0-89AC-B3DE95B89AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1D1242-6B2C-44D0-89AC-B3DE95B89AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1D1242-6B2C-44D0-89AC-B3DE95B89AEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
