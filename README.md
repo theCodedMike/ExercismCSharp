@@ -7,3 +7,4 @@
 6. [Squeaky Clean](./squeaky-clean/SqueakyClean.cs)
 7. [Elon's Toys](./elons-toys/ElonsToys.cs)
 8. [Authentication System](./authentication-system/AuthenticationSystem.cs)
+9. [Need for Speed](./need-for-speed/NeedForSpeed.cs)
