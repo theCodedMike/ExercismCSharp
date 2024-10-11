@@ -8,3 +8,4 @@
 7. [Elon's Toys](./elons-toys/ElonsToys.cs)
 8. [Authentication System](./authentication-system/AuthenticationSystem.cs)
 9. [Need for Speed](./need-for-speed/NeedForSpeed.cs)
+10. [Booking up for Beauty](./booking-up-for-beauty/BookingUpForBeauty.cs)
