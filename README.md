@@ -10,3 +10,4 @@
 9. [Need for Speed](./need-for-speed/NeedForSpeed.cs)
 10. [Booking up for Beauty](./booking-up-for-beauty/BookingUpForBeauty.cs)
 11. [International Calling Connoisseur](./international-calling-connoisseur/InternationalCallingConnoisseur.cs)
+12. [Logs, Logs, Logs!](./logs-logs-logs/LogsLogsLogs.cs)
