@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternationalCallingConnois
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsLogsLogs", "logs-logs-logs\LogsLogsLogs.csproj", "{823EAB56-0DDD-4264-B202-97DF2574689F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faceid2", "faceid-2\Faceid2.csproj", "{F3617F21-30C1-4076-9805-F7729E3797C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{823EAB56-0DDD-4264-B202-97DF2574689F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{823EAB56-0DDD-4264-B202-97DF2574689F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{823EAB56-0DDD-4264-B202-97DF2574689F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3617F21-30C1-4076-9805-F7729E3797C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3617F21-30C1-4076-9805-F7729E3797C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3617F21-30C1-4076-9805-F7729E3797C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3617F21-30C1-4076-9805-F7729E3797C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
