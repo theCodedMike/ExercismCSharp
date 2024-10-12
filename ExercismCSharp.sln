@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsLogsLogs", "logs-logs-l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faceid2", "faceid-2\Faceid2.csproj", "{F3617F21-30C1-4076-9805-F7729E3797C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorConundrum", "calculator-conundrum\CalculatorConundrum.csproj", "{34D96824-4393-43D9-A207-B920F2171E84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{F3617F21-30C1-4076-9805-F7729E3797C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3617F21-30C1-4076-9805-F7729E3797C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3617F21-30C1-4076-9805-F7729E3797C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D96824-4393-43D9-A207-B920F2171E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D96824-4393-43D9-A207-B920F2171E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D96824-4393-43D9-A207-B920F2171E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D96824-4393-43D9-A207-B920F2171E84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

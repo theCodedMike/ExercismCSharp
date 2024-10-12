@@ -12,3 +12,4 @@
 11. [International Calling Connoisseur](./international-calling-connoisseur/InternationalCallingConnoisseur.cs)
 12. [Logs, Logs, Logs!](./logs-logs-logs/LogsLogsLogs.cs)
 13. [Face ID 2.0](./faceid-2/Faceid2.cs)
+14. [Calculator Conundrum](./calculator-conundrum/CalculatorConundrum.cs)
