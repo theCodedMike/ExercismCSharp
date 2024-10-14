@@ -15,3 +15,4 @@
 14. [Calculator Conundrum](./calculator-conundrum/CalculatorConundrum.cs)
 15. [The Weather in Deather](./the-weather-in-deather/TheWeatherInDeather.cs)
 16. [Attack of the Trolls](./attack-of-the-trolls/AttackOfTheTrolls.cs)
+17. [Interest is Interesting](./interest-is-interesting/InterestIsInteresting.cs)
