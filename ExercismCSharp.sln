@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackOfTheTrolls", "attack
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestIsInteresting", "interest-is-interesting\InterestIsInteresting.csproj", "{31D08155-FCF3-4F3C-9923-52FC7F0E0CD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardsAndWarriors", "wizards-and-warriors\WizardsAndWarriors.csproj", "{2037D9F2-607C-4C2D-BAB2-8C6FE76366F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{31D08155-FCF3-4F3C-9923-52FC7F0E0CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31D08155-FCF3-4F3C-9923-52FC7F0E0CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31D08155-FCF3-4F3C-9923-52FC7F0E0CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2037D9F2-607C-4C2D-BAB2-8C6FE76366F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2037D9F2-607C-4C2D-BAB2-8C6FE76366F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2037D9F2-607C-4C2D-BAB2-8C6FE76366F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2037D9F2-607C-4C2D-BAB2-8C6FE76366F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
