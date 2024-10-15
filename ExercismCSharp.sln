@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperOptimizedTelemetry", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControlCompetition", "remote-control-competition\RemoteControlCompetition.csproj", "{0A84CD69-1AFD-4326-A4D6-2C0FC7885B52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracksOnTracksOnTracks", "tracks-on-tracks-on-tracks\TracksOnTracksOnTracks.csproj", "{91F54385-11D2-4F3F-B29E-6233574C4CCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{0A84CD69-1AFD-4326-A4D6-2C0FC7885B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A84CD69-1AFD-4326-A4D6-2C0FC7885B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A84CD69-1AFD-4326-A4D6-2C0FC7885B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F54385-11D2-4F3F-B29E-6233574C4CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F54385-11D2-4F3F-B29E-6233574C4CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F54385-11D2-4F3F-B29E-6233574C4CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F54385-11D2-4F3F-B29E-6233574C4CCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
