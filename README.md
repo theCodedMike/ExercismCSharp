@@ -17,3 +17,4 @@
 16. [Attack of the Trolls](./attack-of-the-trolls/AttackOfTheTrolls.cs)
 17. [Interest is Interesting](./interest-is-interesting/InterestIsInteresting.cs)
 18. [Wizards and Warriors](./wizards-and-warriors/WizardsAndWarriors.cs)
+19. [Hyper-optimized Telemetry](./hyper-optimized-telemetry/HyperOptimizedTelemetry.cs)
