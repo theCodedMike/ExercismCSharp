@@ -18,3 +18,4 @@
 17. [Interest is Interesting](./interest-is-interesting/InterestIsInteresting.cs)
 18. [Wizards and Warriors](./wizards-and-warriors/WizardsAndWarriors.cs)
 19. [Hyper-optimized Telemetry](./hyper-optimized-telemetry/HyperOptimizedTelemetry.cs)
+20. [Remote Control Competition](./remote-control-competition/RemoteControlCompetition.cs)
