@@ -20,3 +20,4 @@
 19. [Hyper-optimized Telemetry](./hyper-optimized-telemetry/HyperOptimizedTelemetry.cs)
 20. [Remote Control Competition](./remote-control-competition/RemoteControlCompetition.cs)
 21. [Tracks on Tracks on Tracks](./tracks-on-tracks-on-tracks/TracksOnTracksOnTracks.cs)
+22. [Wizards and Warriors 2.0](./wizards-and-warriors-2/WizardsAndWarriors2.cs)
