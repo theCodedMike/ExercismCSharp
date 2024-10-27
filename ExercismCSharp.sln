@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedVsBlueDarwinStyle", "red
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControlCleanup", "remote-control-cleanup\RemoteControlCleanup.csproj", "{6338AC91-F78A-4461-925D-03C52D7AA810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimFromMarketing", "tim-from-marketing\TimFromMarketing.csproj", "{663A6EF2-1325-424F-A5F5-CB56B3602940}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{6338AC91-F78A-4461-925D-03C52D7AA810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6338AC91-F78A-4461-925D-03C52D7AA810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6338AC91-F78A-4461-925D-03C52D7AA810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663A6EF2-1325-424F-A5F5-CB56B3602940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663A6EF2-1325-424F-A5F5-CB56B3602940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663A6EF2-1325-424F-A5F5-CB56B3602940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663A6EF2-1325-424F-A5F5-CB56B3602940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
