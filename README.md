@@ -24,3 +24,4 @@
 23. [Red vs. Blue: Darwin Style](./red-vs-blue-darwin-style/RedVsBlueDarwinStyle.cs)
 24. [Remote Control Cleanup](./remote-control-cleanup/RemoteControlCleanup.cs)
 25. [Tim from Marketing](./tim-from-marketing/TimFromMarketing.cs)
+26. [Cars, Assemble!](./cars-assemble/CarsAssemble.cs)
