@@ -25,3 +25,4 @@
 24. [Remote Control Cleanup](./remote-control-cleanup/RemoteControlCleanup.cs)
 25. [Tim from Marketing](./tim-from-marketing/TimFromMarketing.cs)
 26. [Cars, Assemble!](./cars-assemble/CarsAssemble.cs)
+27. [Developer Privileges](./developer-privileges/DeveloperPrivileges.cs)

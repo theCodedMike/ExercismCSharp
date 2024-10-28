@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimFromMarketing", "tim-fro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAssemble", "cars-assemble\CarsAssemble.csproj", "{D252FFCB-4F38-4807-A0F5-BCE4A5DB585C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperPrivileges", "developer-privileges\DeveloperPrivileges.csproj", "{EB5A6FB6-6CE5-41CF-A610-28BDCFE38F25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +164,9 @@ Global
 		{D252FFCB-4F38-4807-A0F5-BCE4A5DB585C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D252FFCB-4F38-4807-A0F5-BCE4A5DB585C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D252FFCB-4F38-4807-A0F5-BCE4A5DB585C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5A6FB6-6CE5-41CF-A610-28BDCFE38F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5A6FB6-6CE5-41CF-A610-28BDCFE38F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5A6FB6-6CE5-41CF-A610-28BDCFE38F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5A6FB6-6CE5-41CF-A610-28BDCFE38F25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
