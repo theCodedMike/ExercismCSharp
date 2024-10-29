@@ -14,26 +14,27 @@ public struct CurrencyAmount
 
     private static bool ValidateCurrency(CurrencyAmount x, CurrencyAmount y) => x.currency == y.currency;
 
+    private static T Execute<T>(CurrencyAmount x, CurrencyAmount y, T result) =>
+        ValidateCurrency(x, y) ? result : throw new ArgumentException();
+
     // implement equality operators
     public static bool operator ==(CurrencyAmount x, CurrencyAmount y) =>
-        ValidateCurrency(x, y) ? x.amount == y.amount : throw new ArgumentException();
+        Execute(x, y, x.amount == y.amount);
 
     public static bool operator !=(CurrencyAmount x, CurrencyAmount y) => !(x == y);
 
     // implement comparison operators
     public static bool operator >(CurrencyAmount x, CurrencyAmount y) =>
-        ValidateCurrency(x, y) ? x.amount > y.amount : throw new ArgumentException();
+        Execute(x, y, x.amount > y.amount);
 
     public static bool operator <(CurrencyAmount x, CurrencyAmount y) => !(x > y);
 
     // implement arithmetic operators
-    public static CurrencyAmount operator +(CurrencyAmount x, CurrencyAmount y) => ValidateCurrency(x, y)
-        ? new CurrencyAmount(x.amount + y.amount, x.currency)
-        : throw new ArgumentException();
+    public static CurrencyAmount operator +(CurrencyAmount x, CurrencyAmount y) =>
+        Execute(x, y, new CurrencyAmount(x.amount + y.amount, x.currency));
 
-    public static CurrencyAmount operator -(CurrencyAmount x, CurrencyAmount y) => ValidateCurrency(x, y)
-        ? new CurrencyAmount(x.amount - y.amount, x.currency)
-        : throw new ArgumentException();
+    public static CurrencyAmount operator -(CurrencyAmount x, CurrencyAmount y) =>
+        Execute(x, y, new CurrencyAmount(x.amount - y.amount, x.currency));
 
     public static CurrencyAmount operator *(CurrencyAmount x, decimal y) => new(x.amount * y, x.currency);
 
