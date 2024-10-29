@@ -27,3 +27,4 @@
 26. [Cars, Assemble!](./cars-assemble/CarsAssemble.cs)
 27. [Developer Privileges](./developer-privileges/DeveloperPrivileges.cs)
 28. [Hyperia Forex](./hyperia-forex/HyperiaForex.cs)
+29. [Hyperinflation Hits Hyperia](./hyperinflation-hits-hyperia/HyperinflationHitsHyperia.cs)
