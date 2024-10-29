@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAssemble", "cars-assemb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperPrivileges", "developer-privileges\DeveloperPrivileges.csproj", "{EB5A6FB6-6CE5-41CF-A610-28BDCFE38F25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperiaForex", "hyperia-forex\HyperiaForex.csproj", "{52D6E292-8B2A-42A9-8749-8EBF72639154}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{EB5A6FB6-6CE5-41CF-A610-28BDCFE38F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB5A6FB6-6CE5-41CF-A610-28BDCFE38F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB5A6FB6-6CE5-41CF-A610-28BDCFE38F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D6E292-8B2A-42A9-8749-8EBF72639154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D6E292-8B2A-42A9-8749-8EBF72639154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D6E292-8B2A-42A9-8749-8EBF72639154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D6E292-8B2A-42A9-8749-8EBF72639154}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

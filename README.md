@@ -26,3 +26,4 @@
 25. [Tim from Marketing](./tim-from-marketing/TimFromMarketing.cs)
 26. [Cars, Assemble!](./cars-assemble/CarsAssemble.cs)
 27. [Developer Privileges](./developer-privileges/DeveloperPrivileges.cs)
+28. [Hyperia Forex](./hyperia-forex/HyperiaForex.cs)
