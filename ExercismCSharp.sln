@@ -60,6 +60,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperinflationHitsHyperia",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingTelemetry", "building-telemetry\BuildingTelemetry.csproj", "{2DBEAB2E-B290-4847-BF70-6DEF63BA2D24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeighingMachine", "weighing-machine\WeighingMachine.csproj", "{55A7F1A7-042F-4BD8-8E34-080959FCCC13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,5 +188,9 @@ Global
 		{2DBEAB2E-B290-4847-BF70-6DEF63BA2D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DBEAB2E-B290-4847-BF70-6DEF63BA2D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DBEAB2E-B290-4847-BF70-6DEF63BA2D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A7F1A7-042F-4BD8-8E34-080959FCCC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A7F1A7-042F-4BD8-8E34-080959FCCC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A7F1A7-042F-4BD8-8E34-080959FCCC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A7F1A7-042F-4BD8-8E34-080959FCCC13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -29,3 +29,4 @@
 28. [Hyperia Forex](./hyperia-forex/HyperiaForex.cs)
 29. [Hyperinflation Hits Hyperia](./hyperinflation-hits-hyperia/HyperinflationHitsHyperia.cs)
 30. [Building Telemetry](./building-telemetry/BuildingTelemetry.cs)
+31. [Weighing Machine](./weighing-machine/WeighingMachine.cs)
