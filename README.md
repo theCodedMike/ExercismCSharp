@@ -30,3 +30,4 @@
 29. [Hyperinflation Hits Hyperia](./hyperinflation-hits-hyperia/HyperinflationHitsHyperia.cs)
 30. [Building Telemetry](./building-telemetry/BuildingTelemetry.cs)
 31. [Weighing Machine](./weighing-machine/WeighingMachine.cs)
+32. [Roll the Die!](./roll-the-die/RollTheDie.cs)
