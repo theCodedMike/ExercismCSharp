@@ -70,6 +70,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectRelationalMapping", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmInOneGo", "orm-in-one-go\OrmInOneGo.csproj", "{D4069A43-ECDF-47B6-BB25-6CEAEE3891C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighSchoolSweethearts", "high-school-sweethearts\HighSchoolSweethearts.csproj", "{8E68F674-0524-4E63-838C-5ED3314321F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -216,5 +218,9 @@ Global
 		{D4069A43-ECDF-47B6-BB25-6CEAEE3891C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4069A43-ECDF-47B6-BB25-6CEAEE3891C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4069A43-ECDF-47B6-BB25-6CEAEE3891C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E68F674-0524-4E63-838C-5ED3314321F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E68F674-0524-4E63-838C-5ED3314321F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E68F674-0524-4E63-838C-5ED3314321F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E68F674-0524-4E63-838C-5ED3314321F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
