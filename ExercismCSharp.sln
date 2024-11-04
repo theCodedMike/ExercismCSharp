@@ -72,6 +72,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmInOneGo", "orm-in-one-go
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighSchoolSweethearts", "high-school-sweethearts\HighSchoolSweethearts.csproj", "{8E68F674-0524-4E63-838C-5ED3314321F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogLevels", "log-levels\LogLevels.csproj", "{D8C392E2-309F-4E87-8BBA-5FB4CB0EF37E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,5 +224,9 @@ Global
 		{8E68F674-0524-4E63-838C-5ED3314321F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E68F674-0524-4E63-838C-5ED3314321F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E68F674-0524-4E63-838C-5ED3314321F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C392E2-309F-4E87-8BBA-5FB4CB0EF37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C392E2-309F-4E87-8BBA-5FB4CB0EF37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C392E2-309F-4E87-8BBA-5FB4CB0EF37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C392E2-309F-4E87-8BBA-5FB4CB0EF37E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

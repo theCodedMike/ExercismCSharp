@@ -35,3 +35,4 @@
 34. [Object Relational Mapping](./object-relational-mapping/ObjectRelationalMapping.cs)
 35. [Orm in One Go](./orm-in-one-go/OrmInOneGo.cs)
 36. [High School Sweethearts](./high-school-sweethearts/HighSchoolSweethearts.cs)
+37. [Log Levels](./log-levels/LogLevels.cs)
