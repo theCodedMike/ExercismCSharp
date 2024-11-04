@@ -75,13 +75,11 @@ public class LandGrabInSpaceTests
     {
         Type plotType = typeof(Plot);
         Type[] types = new Type[] { typeof(Coord), typeof(Coord), typeof(Coord), typeof(Coord) };
-        ConstructorInfo constructorInfoObj = plotType.GetConstructor(types);
+        ConstructorInfo? constructorInfoObj = plotType.GetConstructor(types);
         if (constructorInfoObj != null)
         {
             return (Plot)constructorInfoObj.Invoke(new object[] { coord1, coord2, coord3, coord4 });
-        }
-
-        else
+        } else 
         {
             throw new InvalidOperationException("You need to implement a constructor for the struct Plot.  The constructor must take 4 co-ordinates.  No such constructor can be found.");
         }
