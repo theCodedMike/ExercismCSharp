@@ -7,33 +7,34 @@
 6. [Squeaky Clean](./squeaky-clean/SqueakyClean.cs)
 7. [Elon's Toys](./elons-toys/ElonsToys.cs)
 8. [Authentication System](./authentication-system/AuthenticationSystem.cs)
-9. [Need for Speed](./need-for-speed/NeedForSpeed.cs)
-10. [Booking up for Beauty](./booking-up-for-beauty/BookingUpForBeauty.cs)
-11. [International Calling Connoisseur](./international-calling-connoisseur/InternationalCallingConnoisseur.cs)
-12. [Logs, Logs, Logs!](./logs-logs-logs/LogsLogsLogs.cs)
-13. [Face ID 2.0](./faceid-2/Faceid2.cs)
-14. [Calculator Conundrum](./calculator-conundrum/CalculatorConundrum.cs)
-15. [The Weather in Deather](./the-weather-in-deather/TheWeatherInDeather.cs)
-16. [Attack of the Trolls](./attack-of-the-trolls/AttackOfTheTrolls.cs)
-17. [Interest is Interesting](./interest-is-interesting/InterestIsInteresting.cs)
-18. [Wizards and Warriors](./wizards-and-warriors/WizardsAndWarriors.cs)
-19. [Hyper-optimized Telemetry](./hyper-optimized-telemetry/HyperOptimizedTelemetry.cs)
-20. [Remote Control Competition](./remote-control-competition/RemoteControlCompetition.cs)
-21. [Tracks on Tracks on Tracks](./tracks-on-tracks-on-tracks/TracksOnTracksOnTracks.cs)
-22. [Wizards and Warriors 2.0](./wizards-and-warriors-2/WizardsAndWarriors2.cs)
-23. [Red vs. Blue: Darwin Style](./red-vs-blue-darwin-style/RedVsBlueDarwinStyle.cs)
-24. [Remote Control Cleanup](./remote-control-cleanup/RemoteControlCleanup.cs)
-25. [Tim from Marketing](./tim-from-marketing/TimFromMarketing.cs)
-26. [Cars, Assemble!](./cars-assemble/CarsAssemble.cs)
-27. [Developer Privileges](./developer-privileges/DeveloperPrivileges.cs)
-28. [Hyperia Forex](./hyperia-forex/HyperiaForex.cs)
-29. [Hyperinflation Hits Hyperia](./hyperinflation-hits-hyperia/HyperinflationHitsHyperia.cs)
-30. [Building Telemetry](./building-telemetry/BuildingTelemetry.cs)
-31. [Weighing Machine](./weighing-machine/WeighingMachine.cs)
-32. [Roll the Die!](./roll-the-die/RollTheDie.cs)
-33. [Parsing Log Files](./parsing-log-files/ParsingLogFiles.cs)
-34. [Object Relational Mapping](./object-relational-mapping/ObjectRelationalMapping.cs)
-35. [Orm in One Go](./orm-in-one-go/OrmInOneGo.cs)
+9. [Need for Speed](./need-for-speed/NeedForSpeed.cs) 构造函数
+10. [Booking up for Beauty](./booking-up-for-beauty/BookingUpForBeauty.cs) 日期时间DateTime
+11. [International Calling Connoisseur](./international-calling-connoisseur/InternationalCallingConnoisseur.cs) 字典Dictionary<K, V>
+12. [Logs, Logs, Logs!](./logs-logs-logs/LogsLogsLogs.cs) 枚举
+13. [Face ID 2.0](./faceid-2/Faceid2.cs) 相等重写
+14. [Calculator Conundrum](./calculator-conundrum/CalculatorConundrum.cs) 异常处理
+15. [The Weather in Deather](./the-weather-in-deather/TheWeatherInDeather.cs) switch、条件、throw表达式
+16. [Attack of the Trolls](./attack-of-the-trolls/AttackOfTheTrolls.cs) Flags特性
+17. [Interest is Interesting](./interest-is-interesting/InterestIsInteresting.cs) 浮点数、while循环
+18. [Wizards and Warriors](./wizards-and-warriors/WizardsAndWarriors.cs) 继承、抽象类
+19. [Hyper-optimized Telemetry](./hyper-optimized-telemetry/HyperOptimizedTelemetry.cs) 整数
+20. [Remote Control Competition](./remote-control-competition/RemoteControlCompetition.cs) IComparable<T>接口
+21. [Tracks on Tracks on Tracks](./tracks-on-tracks-on-tracks/TracksOnTracksOnTracks.cs) 泛型、列表
+22. [Wizards and Warriors 2.0](./wizards-and-warriors-2/WizardsAndWarriors2.cs) 方法重载、命名参数、可选参数
+23. [Red vs. Blue: Darwin Style](./red-vs-blue-darwin-style/RedVsBlueDarwinStyle.cs) 命名空间
+24. [Remote Control Cleanup](./remote-control-cleanup/RemoteControlCleanup.cs) 嵌套接口、枚举、结构体、类
+25. [Tim from Marketing](./tim-from-marketing/TimFromMarketing.cs) null处理(?、??、??=)
+26. [Cars, Assemble!](./cars-assemble/CarsAssemble.cs) 数值、if语句
+27. [Developer Privileges](./developer-privileges/DeveloperPrivileges.cs) 对象初始化
+28. [Hyperia Forex](./hyperia-forex/HyperiaForex.cs) 运算符重载、类型显式/隐式转换
+29. [Hyperinflation Hits Hyperia](./hyperinflation-hits-hyperia/HyperinflationHitsHyperia.cs) 数值类型的溢出处理
+30. [Building Telemetry](./building-telemetry/BuildingTelemetry.cs) 参数修饰符out、ref、params
+31. [Weighing Machine](./weighing-machine/WeighingMachine.cs) 属性
+32. [Roll the Die!](./roll-the-die/RollTheDie.cs) 随机数
+33. [Parsing Log Files](./parsing-log-files/ParsingLogFiles.cs) 正则表达式、字符串操作
+34. [Object Relational Mapping](./object-relational-mapping/ObjectRelationalMapping.cs) IDisposable接口
+35. [Orm in One Go](./orm-in-one-go/OrmInOneGo.cs) try with resources
 36. [High School Sweethearts](./high-school-sweethearts/HighSchoolSweethearts.cs) 字符串格式化
-37. [Log Levels](./log-levels/LogLevels.cs) 字符串
-38. [Land Grab in Space](./land-grab-in-space/LandGrabInSpace.cs)
+37. [Log Levels](./log-levels/LogLevels.cs) 字符串操作
+38. [Land Grab in Space](./land-grab-in-space/LandGrabInSpace.cs) 结构体
+39. [Football Match Reports](./football-match-reports/FootballMatchReports.cs) Switch
