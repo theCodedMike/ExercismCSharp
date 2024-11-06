@@ -39,3 +39,4 @@
 38. [Land Grab in Space](./land-grab-in-space/LandGrabInSpace.cs) 结构体
 39. [Football Match Reports](./football-match-reports/FootballMatchReports.cs) Switch
 40. [Beauty Salon Goes Global](./beauty-salon-goes-global/BeautySalonGoesGlobal.cs) DateTime、TimeZoneInfo
+41. [Phone Number Analysis](./phone-number-analysis/PhoneNumberAnalysis.cs) 元组
