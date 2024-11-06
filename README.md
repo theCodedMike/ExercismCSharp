@@ -1,12 +1,12 @@
 ## Learning C# at [Exercism](https://exercism.org/tracks/csharp)
-1. [Hello World](./hello-world/HelloWorld.cs)
-2. [Bird Watcher](./bird-watcher/BirdWatcher.cs)
-3. [Lucian's Luscious Lasagna](./lucians-luscious-lasagna/LuciansLusciousLasagna.cs)
-4. [Annalyn's Infiltration](./annalyns-infiltration/AnnalynsInfiltration.cs)
-5. [Secure Munchester United](./secure-munchester-united/SecureMunchesterUnited.cs)
-6. [Squeaky Clean](./squeaky-clean/SqueakyClean.cs)
-7. [Elon's Toys](./elons-toys/ElonsToys.cs)
-8. [Authentication System](./authentication-system/AuthenticationSystem.cs)
+1. [Hello World](./hello-world/HelloWorld.cs) Hello World!
+2. [Bird Watcher](./bird-watcher/BirdWatcher.cs) 数组、for循环
+3. [Lucian's Luscious Lasagna](./lucians-luscious-lasagna/LuciansLusciousLasagna.cs) C#基础概念
+4. [Annalyn's Infiltration](./annalyns-infiltration/AnnalynsInfiltration.cs) bool、逻辑操作符(&&、||、!)
+5. [Secure Munchester United](./secure-munchester-united/SecureMunchesterUnited.cs) 显式转换、is、typeof
+6. [Squeaky Clean](./squeaky-clean/SqueakyClean.cs) 字符、StringBuilder
+7. [Elon's Toys](./elons-toys/ElonsToys.cs) 类
+8. [Authentication System](./authentication-system/AuthenticationSystem.cs) 常量、只读集合
 9. [Need for Speed](./need-for-speed/NeedForSpeed.cs) 构造函数
 10. [Booking up for Beauty](./booking-up-for-beauty/BookingUpForBeauty.cs) 日期时间DateTime
 11. [International Calling Connoisseur](./international-calling-connoisseur/InternationalCallingConnoisseur.cs) 字典Dictionary<K, V>
@@ -38,3 +38,4 @@
 37. [Log Levels](./log-levels/LogLevels.cs) 字符串操作
 38. [Land Grab in Space](./land-grab-in-space/LandGrabInSpace.cs) 结构体
 39. [Football Match Reports](./football-match-reports/FootballMatchReports.cs) Switch
+40. [Beauty Salon Goes Global](./beauty-salon-goes-global/BeautySalonGoesGlobal.cs) DateTime、TimeZoneInfo
