@@ -42,3 +42,4 @@
 41. [Phone Number Analysis](./phone-number-analysis/PhoneNumberAnalysis.cs) 元组
 42. [Instruments of Texas](./instruments-of-texas/InstrumentsOfTexas.cs) `when`用于异常过滤
 43. [Log Analysis](./log-analysis/LogAnalysis.cs) 扩展方法
+44. [Two Fer](./two-fer/TwoFer.cs) 可选参数、字符串格式化
