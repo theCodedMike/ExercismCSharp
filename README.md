@@ -41,3 +41,4 @@
 40. [Beauty Salon Goes Global](./beauty-salon-goes-global/BeautySalonGoesGlobal.cs) **DateTime**、**TimeZoneInfo**
 41. [Phone Number Analysis](./phone-number-analysis/PhoneNumberAnalysis.cs) 元组
 42. [Instruments of Texas](./instruments-of-texas/InstrumentsOfTexas.cs) `when`用于异常过滤
+43. [Log Analysis](./log-analysis/LogAnalysis.cs) 扩展方法

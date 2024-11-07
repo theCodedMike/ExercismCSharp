@@ -84,6 +84,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberAnalysis", "phon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrumentsOfTexas", "instruments-of-texas\InstrumentsOfTexas.csproj", "{7B09EE66-AF6F-4645-AB04-690F1E20F454}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAnalysis", "log-analysis\LogAnalysis.csproj", "{7BD21687-007B-49E6-99DE-87F684EDAD8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -258,5 +260,9 @@ Global
 		{7B09EE66-AF6F-4645-AB04-690F1E20F454}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B09EE66-AF6F-4645-AB04-690F1E20F454}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B09EE66-AF6F-4645-AB04-690F1E20F454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD21687-007B-49E6-99DE-87F684EDAD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD21687-007B-49E6-99DE-87F684EDAD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD21687-007B-49E6-99DE-87F684EDAD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD21687-007B-49E6-99DE-87F684EDAD8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
