@@ -45,3 +45,4 @@
 44. [Two Fer](./two-fer/TwoFer.cs) 可选参数、字符串格式化
 45. [Leap](./leap/Leap.cs) 判断是否是闰年
 46. [Gigasecond](./gigasecond/Gigasecond.cs) DateTime、TimeSpan
+47. [Resistor Color](./resistor-color/ResistorColor.cs) 数组
