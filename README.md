@@ -46,3 +46,4 @@
 45. [Leap](./leap/Leap.cs) 判断是否是闰年
 46. [Gigasecond](./gigasecond/Gigasecond.cs) DateTime、TimeSpan
 47. [Resistor Color](./resistor-color/ResistorColor.cs) 数组
+48. [Space Age](./space-age/SpaceAge.cs) 类、浮点数
