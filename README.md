@@ -48,3 +48,4 @@
 47. [Resistor Color](./resistor-color/ResistorColor.cs) 数组
 48. [Space Age](./space-age/SpaceAge.cs) 类、浮点数
 49. [High Scores](./high-scores/HighScores.cs) 列表、排序
+50. [Hamming](./hamming/Hamming.cs) 异常、`for`循环、`if`语句
