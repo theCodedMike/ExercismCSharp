@@ -1,34 +1,24 @@
 using System;
 using System.Linq;
 
+[Flags]
 public enum Allergen
 {
-    Eggs = 1,
-    Peanuts = 2,
-    Shellfish = 4,
-    Strawberries = 8,
-    Tomatoes = 16,
-    Chocolate = 32,
-    Pollen = 64,
-    Cats = 128,
+    Eggs = 1 << 0,
+    Peanuts = 1 << 1,
+    Shellfish = 1 << 2,
+    Strawberries = 1 << 3,
+    Tomatoes = 1 << 4,
+    Chocolate = 1 << 5,
+    Pollen = 1 << 6,
+    Cats = 1 << 7
 }
 
 public class Allergies
 {
-    private readonly int _score;
-    private static readonly Allergen[] Allergens =
-    [
-        Allergen.Eggs,
-        Allergen.Peanuts,
-        Allergen.Shellfish,
-        Allergen.Strawberries,
-        Allergen.Tomatoes,
-        Allergen.Chocolate,
-        Allergen.Pollen,
-        Allergen.Cats,
-    ];
+    private readonly Allergen _score;
 
-    public Allergies(int mask) => _score = mask;
-    public bool IsAllergicTo(Allergen allergen) => (_score & (int)allergen) != 0;
-    public Allergen[] List() => Allergens.Where(item => ((int)item & _score) != 0).ToArray();
+    public Allergies(int mask) => _score = (Allergen)mask;
+    public bool IsAllergicTo(Allergen allergen) => _score.HasFlag(allergen);
+    public Allergen[] List() => Enum.GetValues<Allergen>().Where(IsAllergicTo).ToArray();
 }

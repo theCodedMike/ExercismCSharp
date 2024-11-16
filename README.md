@@ -51,4 +51,4 @@
 50. [Hamming](./hamming/Hamming.cs) 异常、`for`循环、`if`语句
 51. [Nucleotide Count](./nucleotide-count/NucleotideCount.cs) `Dictionary`
 52. [Robot Name](./robot-name/RobotName.cs) `Random`、`HashSet`
-53. [Allergies](./allergies/Allergies.cs)
+53. [Allergies](./allergies/Allergies.cs) 位运算、枚举、`Flags`特性
