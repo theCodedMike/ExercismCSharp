@@ -53,3 +53,4 @@
 52. [Robot Name](./robot-name/RobotName.cs) `Random`、`HashSet`
 53. [Allergies](./allergies/Allergies.cs) 位运算、枚举、`Flags`特性
 54. [Grade School](./grade-school/GradeSchool.cs) 字典、排序
+55. [Rotational Cipher](./rotational-cipher/RotationalCipher.cs) 字符、字符串

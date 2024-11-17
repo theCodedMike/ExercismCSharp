@@ -108,6 +108,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Allergies", "allergies\Alle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeSchool", "grade-school\GradeSchool.csproj", "{246B414A-F4DC-40FD-8778-5D927EA72494}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotationalCipher", "rotational-cipher\RotationalCipher.csproj", "{0D626F81-C0D7-44D5-91E5-DCE409160521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -330,5 +332,9 @@ Global
 		{246B414A-F4DC-40FD-8778-5D927EA72494}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{246B414A-F4DC-40FD-8778-5D927EA72494}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{246B414A-F4DC-40FD-8778-5D927EA72494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D626F81-C0D7-44D5-91E5-DCE409160521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D626F81-C0D7-44D5-91E5-DCE409160521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D626F81-C0D7-44D5-91E5-DCE409160521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D626F81-C0D7-44D5-91E5-DCE409160521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
